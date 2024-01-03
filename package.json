@@ -11,13 +11,13 @@
     "lint": "eslint 'src/**/*.{js,ts,tsx}' --fix",
     "format": "prettier --write ./src/*"
   },
-  "author": "Jose-cd",
+  "author": "lema-ai",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jose-cd/React-google-drive-picker.git"
+    "url": "https://github.com/lema-ai/React-google-drive-picker.git"
   },
   "bugs": {
-    "url": "https://github.com/Jose-cd/React-google-drive-picker/issues"
+    "url": "https://github.com/lema-ai/React-google-drive-picker/issues"
   },
   "license": "MIT",
   "keywords": [
