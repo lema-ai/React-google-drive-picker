@@ -1,7 +1,7 @@
 {
-  "name": "react-google-drive-picker",
+  "name": "google-drive-picker-react",
   "version": "1.2.2",
-  "description": "React google drive picker api",
+  "description": "Google drive picker api for React",
   "types": "./dist",
   "main": "./dist/index.js",
   "scripts": {
