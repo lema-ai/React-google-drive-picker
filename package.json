@@ -1,6 +1,6 @@
 {
   "name": "@lema-ai/google-drive-picker-react",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Google drive picker api for React",
   "types": "./dist",
   "main": "./dist/index.js",
