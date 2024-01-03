@@ -66,6 +66,7 @@ export type PickerConfiguration = {
   customViews?: any[]
   locale?: string
   customScopes?: string[]
+  setEnableDrives?: boolean
   callbackFunction: (data: PickerCallback) => any
 }
 

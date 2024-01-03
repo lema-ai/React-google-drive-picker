@@ -118,6 +118,7 @@ export default function useDrivePicker(): [
     setIncludeFolders,
     setSelectFolderEnabled,
     disableDefaultView = false,
+    setEnableDrives,
     callbackFunction,
   }: PickerConfiguration) => {
     if (disabled) return false
@@ -139,6 +140,7 @@ export default function useDrivePicker(): [
       .setDeveloperKey(developerKey)
       .setLocale(locale)
       .setCallback(callbackFunction)
+      .setEnableDrives(setEnableDrives)
 
     if (setOrigin) {
       picker.setOrigin(setOrigin)
